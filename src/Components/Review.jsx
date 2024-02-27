@@ -39,7 +39,7 @@ function Review() {
             <p>Signup for our email newspaper to get exclusive discounts, updates, and more</p>
             <input type="text"  className="border border-black mt-3 w-[80%] p-2 rounded-md mb-8"/>
             <br />
-            <h1 className="bg-black text-white mt-8 px-6 py-3 inline w-[20%]">Subscribe</h1>
+            <h1 className="bg-black text-white mt-8 px-6 py-3 inline w-[20%] cursor-pointer">Subscribe</h1>
         </div>
       </div>
     </div>

@@ -34,43 +34,43 @@ function Product() {
          placeholder="Search For a Products..."/>
         <div>
           <div className="grid grid-cols-2 gap-5 md:grid-cols-4 p-10" id="card">
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img1} alt="" className="inline" />
               <h1>Rose Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img2} alt="" className="inline" />
               <h1>Jasmin Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center  hover:-translate-y-2">
+            <div className="text-center  cursor-pointer hover:-translate-y-2">
               <img src={img3} alt="" className="inline" />
               <h1>Lotus Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img4} alt="" className="inline" />
               <h1>Lavender Plant</h1>
               <p>₹50</p>
             </div>
 
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img1} alt="" className="inline" />
               <h1>Whiterose Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img2} alt="" className="inline" />
               <h1>Lilly Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center  hover:-translate-y-2">
+            <div className="text-center cursor-pointer  hover:-translate-y-2">
               <img src={img3} alt="" className="inline" />
               <h1>Carnation Plant</h1>
               <p>₹50</p>
             </div>
-            <div className="text-center hover:-translate-y-2">
+            <div className="text-center cursor-pointer hover:-translate-y-2">
               <img src={img4} alt="" className="inline" />
               <h1>Sunflower Plant</h1>
               <p>₹50</p>

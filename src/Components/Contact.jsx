@@ -3,7 +3,7 @@ import Nav from "./Nav";
 import Fooder from "./Fooder";
 
 function Contact() {
-  return (
+  return ( 
     <div>
       <Nav></Nav>
       <div className="grid justify-center">
@@ -21,7 +21,7 @@ function Contact() {
         <h1 className="">Your Message</h1>
         <textarea name="" id="" cols="40" rows="5" className="border border-gray-400 w-[95%] rounded-md  mb-8 p-2" placeholder="Leave a comment..."></textarea>
 <div className="grid justify-center">
-<button type="submit" className="text-xl bg-green-100 text-black border border-black px-8 pb-1 rounded-md">Submit</button>
+<button type="submit" className="text-xl cursor-pointer bg-green-100 text-black border border-black px-8 pb-1 rounded-md">Submit</button>
 </div>
       </div>
     </div>
